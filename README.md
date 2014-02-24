@@ -70,7 +70,7 @@ You can also use grunt's static methods from the second argument.
 
 ## Grunt task
 
-    grunt.loadNpmTasks('bracer');
+    grunt.loadNpmTasks('grunt-bracer');
 
 ## Usage
 

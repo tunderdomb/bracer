@@ -1,5 +1,5 @@
 {
-  "name": "grunt-prender",
+  "name": "grunt-bracer",
   "version": "0.1.0",
   "description": "Pre render mustache templates",
   "scripts": {
