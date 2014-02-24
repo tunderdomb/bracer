@@ -1,0 +1,16 @@
+{
+  "name": "grunt-prender",
+  "version": "0.1.0",
+  "description": "Pre render mustache templates",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nagy Zoltan <tunderdomb@gmail.com> (tunderdomb)",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "~0.8.1"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.2"
+  }
+}
