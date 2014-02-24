@@ -54,7 +54,7 @@ module.exports = function ( grunt ){
       localPartials: "",
       data: "",
       localData: "",
-      helpers: null
+      helpers: ""
     })
 
     var extend = grunt.util._.extend
